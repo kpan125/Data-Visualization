@@ -1,0 +1,356 @@
+[
+  {
+    "GeoID": "B01",
+    "Borough": "Brooklyn",
+    "MedHHInc": 59577,
+    "Rate": 0.1491
+  },
+  {
+    "GeoID": "B02",
+    "Borough": "Brooklyn",
+    "MedHHInc": 82127,
+    "Rate": 0.2359
+  },
+  {
+    "GeoID": "B03",
+    "Borough": "Brooklyn",
+    "MedHHInc": 40537,
+    "Rate": 0.1094
+  },
+  {
+    "GeoID": "B04",
+    "Borough": "Brooklyn",
+    "MedHHInc": 42197,
+    "Rate": 0.1267
+  },
+  {
+    "GeoID": "B05",
+    "Borough": "Brooklyn",
+    "MedHHInc": 36385,
+    "Rate": 0.111
+  },
+  {
+    "GeoID": "B06",
+    "Borough": "Brooklyn",
+    "MedHHInc": 104652,
+    "Rate": 0.3032
+  },
+  {
+    "GeoID": "B07",
+    "Borough": "Brooklyn",
+    "MedHHInc": 48232,
+    "Rate": 0.1951
+  },
+  {
+    "GeoID": "B08",
+    "Borough": "Brooklyn",
+    "MedHHInc": 45503,
+    "Rate": 0.1496
+  },
+  {
+    "GeoID": "B09",
+    "Borough": "Brooklyn",
+    "MedHHInc": 44329,
+    "Rate": 0.116
+  },
+  {
+    "GeoID": "B10",
+    "Borough": "Brooklyn",
+    "MedHHInc": 60863,
+    "Rate": 0.2234
+  },
+  {
+    "GeoID": "B11",
+    "Borough": "Brooklyn",
+    "MedHHInc": 51165,
+    "Rate": 0.1969
+  },
+  {
+    "GeoID": "B12",
+    "Borough": "Brooklyn",
+    "MedHHInc": 42864,
+    "Rate": 0.1583
+  },
+  {
+    "GeoID": "B13",
+    "Borough": "Brooklyn",
+    "MedHHInc": 34979,
+    "Rate": 0.1347
+  },
+  {
+    "GeoID": "B14",
+    "Borough": "Brooklyn",
+    "MedHHInc": 48169,
+    "Rate": 0.1445
+  },
+  {
+    "GeoID": "B15",
+    "Borough": "Brooklyn",
+    "MedHHInc": 54475,
+    "Rate": 0.1964
+  },
+  {
+    "GeoID": "B16",
+    "Borough": "Brooklyn",
+    "MedHHInc": 28315,
+    "Rate": 0.0909
+  },
+  {
+    "GeoID": "B17",
+    "Borough": "Brooklyn",
+    "MedHHInc": 48094,
+    "Rate": 0.1386
+  },
+  {
+    "GeoID": "B18",
+    "Borough": "Brooklyn",
+    "MedHHInc": 68145,
+    "Rate": 0.1858
+  },
+  {
+    "GeoID": "M01",
+    "Borough": "Manhattan",
+    "MedHHInc": 124389,
+    "Rate": 0.2876
+  },
+  {
+    "GeoID": "M02",
+    "Borough": "Manhattan",
+    "MedHHInc": 124389,
+    "Rate": 0.244
+  },
+  {
+    "GeoID": "M03",
+    "Borough": "Manhattan",
+    "MedHHInc": 42223,
+    "Rate": 0.1525
+  },
+  {
+    "GeoID": "M04",
+    "Borough": "Manhattan",
+    "MedHHInc": 100097,
+    "Rate": 0.2422
+  },
+  {
+    "GeoID": "M05",
+    "Borough": "Manhattan",
+    "MedHHInc": 100097,
+    "Rate": 0.2226
+  },
+  {
+    "GeoID": "M06",
+    "Borough": "Manhattan",
+    "MedHHInc": 106171,
+    "Rate": 0.2318
+  },
+  {
+    "GeoID": "M07",
+    "Borough": "Manhattan",
+    "MedHHInc": 104638,
+    "Rate": 0.244
+  },
+  {
+    "GeoID": "M08",
+    "Borough": "Manhattan",
+    "MedHHInc": 109111,
+    "Rate": 0.2435
+  },
+  {
+    "GeoID": "M09",
+    "Borough": "Manhattan",
+    "MedHHInc": 45765,
+    "Rate": 0.1578
+  },
+  {
+    "GeoID": "M10",
+    "Borough": "Manhattan",
+    "MedHHInc": 40816,
+    "Rate": 0.121
+  },
+  {
+    "GeoID": "M11",
+    "Borough": "Manhattan",
+    "MedHHInc": 31628,
+    "Rate": 0.1304
+  },
+  {
+    "GeoID": "M12",
+    "Borough": "Manhattan",
+    "MedHHInc": 43307,
+    "Rate": 0.1408
+  },
+  {
+    "GeoID": "Q01",
+    "Borough": "Queens",
+    "MedHHInc": 56201,
+    "Rate": 0.2142
+  },
+  {
+    "GeoID": "Q02",
+    "Borough": "Queens",
+    "MedHHInc": 60154,
+    "Rate": 0.2073
+  },
+  {
+    "GeoID": "Q03",
+    "Borough": "Queens",
+    "MedHHInc": 51083,
+    "Rate": 0.1476
+  },
+  {
+    "GeoID": "Q04",
+    "Borough": "Queens",
+    "MedHHInc": 44865,
+    "Rate": 0.1369
+  },
+  {
+    "GeoID": "Q05",
+    "Borough": "Queens",
+    "MedHHInc": 62873,
+    "Rate": 0.2232
+  },
+  {
+    "GeoID": "Q06",
+    "Borough": "Queens",
+    "MedHHInc": 67596,
+    "Rate": 0.2144
+  },
+  {
+    "GeoID": "Q07",
+    "Borough": "Queens",
+    "MedHHInc": 52722,
+    "Rate": 0.1844
+  },
+  {
+    "GeoID": "Q08",
+    "Borough": "Queens",
+    "MedHHInc": 62679,
+    "Rate": 0.1981
+  },
+  {
+    "GeoID": "Q09",
+    "Borough": "Queens",
+    "MedHHInc": 62333,
+    "Rate": 0.1907
+  },
+  {
+    "GeoID": "Q10",
+    "Borough": "Queens",
+    "MedHHInc": 65373,
+    "Rate": 0.199
+  },
+  {
+    "GeoID": "Q11",
+    "Borough": "Queens",
+    "MedHHInc": 78520,
+    "Rate": 0.251
+  },
+  {
+    "GeoID": "Q12",
+    "Borough": "Queens",
+    "MedHHInc": 55203,
+    "Rate": 0.1567
+  },
+  {
+    "GeoID": "Q13",
+    "Borough": "Queens",
+    "MedHHInc": 78303,
+    "Rate": 0.2065
+  },
+  {
+    "GeoID": "Q14",
+    "Borough": "Queens",
+    "MedHHInc": 49451,
+    "Rate": 0.1247
+  },
+  {
+    "GeoID": "S01",
+    "Borough": "Staten Island",
+    "MedHHInc": 60746,
+    "Rate": 0.2151
+  },
+  {
+    "GeoID": "S02",
+    "Borough": "Staten Island",
+    "MedHHInc": 74942,
+    "Rate": 0.2256
+  },
+  {
+    "GeoID": "S03",
+    "Borough": "Staten Island",
+    "MedHHInc": 86978,
+    "Rate": 0.2338
+  },
+  {
+    "GeoID": "X01",
+    "Borough": "Bronx",
+    "MedHHInc": 23131,
+    "Rate": 0.0827
+  },
+  {
+    "GeoID": "X02",
+    "Borough": "Bronx",
+    "MedHHInc": 23131,
+    "Rate": 0.0945
+  },
+  {
+    "GeoID": "X03",
+    "Borough": "Bronx",
+    "MedHHInc": 23710,
+    "Rate": 0.0912
+  },
+  {
+    "GeoID": "X04",
+    "Borough": "Bronx",
+    "MedHHInc": 27102,
+    "Rate": 0.0832
+  },
+  {
+    "GeoID": "X05",
+    "Borough": "Bronx",
+    "MedHHInc": 24436,
+    "Rate": 0.1002
+  },
+  {
+    "GeoID": "X06",
+    "Borough": "Bronx",
+    "MedHHInc": 23710,
+    "Rate": 0.0972
+  },
+  {
+    "GeoID": "X07",
+    "Borough": "Bronx",
+    "MedHHInc": 32732,
+    "Rate": 0.1204
+  },
+  {
+    "GeoID": "X08",
+    "Borough": "Bronx",
+    "MedHHInc": 58409,
+    "Rate": 0.1969
+  },
+  {
+    "GeoID": "X09",
+    "Borough": "Bronx",
+    "MedHHInc": 36440,
+    "Rate": 0.0975
+  },
+  {
+    "GeoID": "X10",
+    "Borough": "Bronx",
+    "MedHHInc": 56627,
+    "Rate": 0.2097
+  },
+  {
+    "GeoID": "X11",
+    "Borough": "Bronx",
+    "MedHHInc": 47655,
+    "Rate": 0.1597
+  },
+  {
+    "GeoID": "X12",
+    "Borough": "Bronx",
+    "MedHHInc": 47168,
+    "Rate": 0.174
+  }
+]
